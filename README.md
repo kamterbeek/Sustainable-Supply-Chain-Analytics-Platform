@@ -1,2 +1,2 @@
 
-Tech stack use:
+Tech stack used:
